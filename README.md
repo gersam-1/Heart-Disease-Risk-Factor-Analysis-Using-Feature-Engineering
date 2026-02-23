@@ -1,6 +1,7 @@
 Project: Medical Data Visualizer
 
 Introduction
+
 This project aims to find the correlation between variables such as weight, blood pressure and cholesterol with cardiovascular disease. the goal is to use a heatmap to illustrate the correlations.
 About the dataset
 
