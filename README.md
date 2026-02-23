@@ -6,9 +6,9 @@ This project aims to find the correlation between variables such as weight, bloo
 
 About the dataset
 
-dataset: cardio_train.csv
+* dataset: cardio_train.csv
 
-key metric:  ap_hi, ap_lo, weight, cholesterol
+* key metric:  ap_hi, ap_lo, weight, cholesterol
 
 Summary of the Finding: 
  The heatmap reveals that ap_hi (systolic blood pressure) is the strongest individual predictor of cardiovascular disease with a correlation cofficent of (0.43) followed by ap_lo(diastolic blood pressure) which has a correlation cofficent (0.34). both are moderatelly correlated with cardiovascular disease, meaning their increase increases the liklihood of having cardiovascular disease.
