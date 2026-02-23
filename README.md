@@ -5,6 +5,7 @@ This project aims to find the correlation between variables such as weight, bloo
 
 About the dataset
 dataset: cardio_train.csv
+
 key metric:  ap_hi, ap_lo, weight, cholesterol
 
 Summary of the Finding: 
